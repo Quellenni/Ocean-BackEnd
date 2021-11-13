@@ -1,6 +1,6 @@
 # Ocean-BackEnd
 
-Projeto criado durante o curso Backend com NodeJs e Express pela Samsung Ocean.
+Projeto criado durante o curso Backend com NodeJs e Express - Samsung Ocean.
 O Objetivo do curso foi entender desde os princípios do backend, tendo uma Introdução completa sobre o assunto e dar os primeiros passos desenvolvendo uma aplicação em NodeJS, com a linguagem de programação JavaScript.
 
 Tópicos abordados durante o curso:
